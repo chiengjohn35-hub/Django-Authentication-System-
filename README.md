@@ -9,8 +9,8 @@
 * 3 - cd into project "cd DjangoApp"
 * 4 - pip install -r requirements.txt
 * 5 - pip install django
-* 6 - django-admin startproject project
-* 7 - django-admin startapp
+* 6 - django-admin startproject DjangoApp
+* 7 - django-admin startapp project
 * 8 - python manage.py runserver
 
   # Features and  Course Overview
