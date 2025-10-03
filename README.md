@@ -37,14 +37,14 @@
   ![homenav](https://github.com/user-attachments/assets/c6e7c7e4-34a8-45b0-828e-e2e4e9a7ee60)
 
 `  
-  # Sign or Registration page
+  # Sign up or Registration page
   ![signup post](https://github.com/user-attachments/assets/a63e2305-d124-4a2a-a01a-68a3caeb0464)
 
   # Login page
   ![login](https://github.com/user-attachments/assets/a98006ec-8e92-4871-b0f8-24846d6dee09)
 
   # Logout Page
-  - Notice that there a Navigation in Home page with three black lines, there is a link or route to which our  logout page is  and when it's clicked on.
+  - Notice that there's a Navigation in Home page with three black lines, there is a link or route to which our  logout page is  and when it's clicked on.
   -  It Logout out our user and  redirects us to Login page.
 
     
