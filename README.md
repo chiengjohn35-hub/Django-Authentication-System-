@@ -8,4 +8,32 @@
 *   - virtualenv envname
 * 3 - cd into project "cd DjangoApp"
 * 4 - pip install -r requirements.txt
-* 5 - python manage.py runserver
+* 5 - pip install django
+* 6 - django-admin startproject project
+* 7 - django-admin startapp
+* 8 - python manage.py runserver
+
+  # Features and  Course Overview
+* Basic Djagno Overview
+* User Registration (username, email, password)
+* Database Design and Models
+* User Login and Logout
+* Flash Messages for Success, Info, Erros(e.g Invalid "Username", "Account Created")
+* Password Hashing(Django Secure Auth System)
+* Protect Routes with Django Contrib auth Decorator  @login-required
+* Responsive UI with Bootstrap
+
+
+
+  ## Tech Stack
+  - **BACKEND**: Django(Python)
+  - **Frontend**: Html,Css, Bootstrap
+  - **Database**: Sqlite(default, I will and can be swapped for PostgreSQL/MySQL )
+ 
+
+  # Sign or Registration page
+<img src="./resources/images/Devsearch Home.jpg">  >  
+
+
+
+  
