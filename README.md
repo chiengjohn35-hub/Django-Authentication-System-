@@ -4,8 +4,8 @@
 * 1 - Create a virtual environment or if already created provided by the project
 * 2 -Then activate the vertical environment by ".\venv\Scripts\activate"
     - or you  can create your own new virtual environment by
-    - pip install virtualenv
-    - virtualenv envname
+    - python -m venv (put your virtical environment name here)
+    -  activate by " .\your virtical environment name\Scripts\activate"
 * 3 - cd into project "cd DjangoApp"
 * 4 - pip install -r requirements.txt
 * 5 - pip install django
