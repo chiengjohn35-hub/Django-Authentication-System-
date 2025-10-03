@@ -32,7 +32,7 @@
  
 
   # Sign or Registration page
-  <img src="./resources/images/home.post.jpg">
+  
 
 
   
