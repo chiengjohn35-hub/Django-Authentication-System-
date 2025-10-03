@@ -32,7 +32,9 @@
  
 
   # Sign or Registration page
-  ![hometwo](https://github.com/user-attachments/assets/39671c7f-8737-4941-8d6b-0368899d82d5)
+  ![signup post](https://github.com/user-attachments/assets/a63e2305-d124-4a2a-a01a-68a3caeb0464)
+
+
 
   
 
