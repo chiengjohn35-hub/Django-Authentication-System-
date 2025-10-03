@@ -32,7 +32,7 @@
  
 
   # Sign or Registration page
-<img src="./resources/images/Devsearch Home.jpg">  >  
+<img src="./resources/images/Devsearch Home.jpg">  
 
 
 
