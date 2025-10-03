@@ -32,7 +32,10 @@
  
 
   # Sign or Registration page
-<img src="![Screenshot_3-10-2025_15130_127 0 0 1](https://github.com/user-attachments/assets/3912e482-b94e-4ad4-8d87-33bfd8d7282c)">  
+  <img src="./resources/images/home.post.jpg">
+
+
+  
 
 
 
