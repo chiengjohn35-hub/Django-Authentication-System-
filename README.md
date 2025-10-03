@@ -14,7 +14,7 @@
 * 8 - python manage.py runserver
 
   # Features and  Course Overview
-* Basic Djagno Overview
+* Basic Django Overview
 * User Registration (username, email, password)
 * Database Design and Models
 * User Login and Logout
