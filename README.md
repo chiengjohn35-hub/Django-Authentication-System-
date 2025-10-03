@@ -44,8 +44,12 @@
   ![login](https://github.com/user-attachments/assets/a98006ec-8e92-4871-b0f8-24846d6dee09)
 
   # Logout Page
-  ![logout post](https://github.com/user-attachments/assets/e0814297-48d1-467e-87bf-3da20b9e5c79)
+  - Note the  Navigation in home page and there is a link or route for our logout page and when it's click it redirects us to login page
+
+    
   ![logoutpart](https://github.com/user-attachments/assets/0419910b-fe4d-4e21-a8ac-b06eb9cb2508)
+  ![logout post](https://github.com/user-attachments/assets/e0814297-48d1-467e-87bf-3da20b9e5c79)
+ 
 
 
 
