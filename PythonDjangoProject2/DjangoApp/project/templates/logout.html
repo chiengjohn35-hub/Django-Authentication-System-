@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>app</title>
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+          integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+{% block content %}
+<div style="display:grid; justify-content:center; place-items:center; height:100vh ">
+    <form method="post" action="{% url 'logout' %}" >
+           <h1>Do You want to  logout? </h1>
+        {% csrf_token %}
+        <button type="submit" class="btn btn-primary">Yes, Logout</button>
+        <button type="submit"  class="btn btn-primary">No, Return Back!</button>
+    </form>
+</div>
+{% endblock content %}
+</body>
