@@ -1,4 +1,4 @@
-![djongo-crispy-forms](https://github.com/user-attachments/assets/9800d04f-67de-49d6-880f-95c2409d9007)
+![django-crispy-forms (1)](https://github.com/user-attachments/assets/3e351c24-5be4-469d-85c8-4dc29ef51af1)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 
