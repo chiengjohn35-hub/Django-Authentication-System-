@@ -13,9 +13,9 @@
     -  activate by " .\your virtical environment name\Scripts\activate"
 * 3 - pip install django
 * 4 - django-admin startproject DjangoForm
-* 6 - django-admin startapp project
-* 7 cd into project "cd DjangoApp"
-* 8 - python manage.py runserver
+* 5 - django-admin startapp project
+* 6 -cd  "cd DjangoApp"
+* 7 - python manage.py runserver
 
   # Features and  Concepts Overview
 * Basic Django Overview
