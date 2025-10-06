@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="285.89586639404297" height="35" viewBox="0 0 285.89586639404297 35"><rect width="140.6146011352539" height="35" fill="#f8e71c"/><rect x="140.6146011352539" width="145.28126525878906" height="35" fill="#f8e71c"/><text x="70.30730056762695" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#62c925" text-anchor="middle" letter-spacing="2">DJANGO FORMS</text><text x="213.25523376464844" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="900" letter-spacing="2">CRISPY FORMS</text></svg>
+
 [![fort![django-forms-crispy-forms](https://github.com/user-attachments/assets/de37c217-2688-466a-bd60-8a9260001cbe)
 hebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
