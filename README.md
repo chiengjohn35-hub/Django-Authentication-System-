@@ -29,6 +29,7 @@
   
   # Home with Navigation and profile page
   - You can only access the profile page if you are logged in and authenticated
+  - So you need to signup or login if you already have account
     
   ![home](https://github.com/user-attachments/assets/3464c8e2-4587-4c33-9d4e-17e360fcfe1b)
   ![profile](https://github.com/user-attachments/assets/e2942ca2-22a1-4e27-ac22-9d81bc470315)
