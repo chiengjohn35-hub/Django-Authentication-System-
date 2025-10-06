@@ -6,50 +6,42 @@
     - or you  can create your own new virtual environment by
     - python -m venv (put your virtical environment name here)
     -  activate by " .\your virtical environment name\Scripts\activate"
-* 3 - cd into project "cd DjangoApp"
-* 4 - pip install -r requirements.txt
-* 5 - pip install django
-* 6 - django-admin startproject DjangoApp
-* 7 - django-admin startapp project
+* 3 - pip install django
+* 4 - django-admin startproject DjangoForm
+* 6 - django-admin startapp project
+* 7 cd into project "cd DjangoApp"
 * 8 - python manage.py runserver
 
-  # Features and  Course Overview
+  # Features and  Concepts Overview
 * Basic Django Overview
-* User Registration (username, email, password)
-* Database Design and Models
-* User Login and Logout
-* Flash Messages for Success, Info, Erros(e.g Invalid "Username", "Account Created")
-* Password Hashing(Django Secure Auth System)
+* User Registration (username, email, password) with Django Crispy Forms
+* Django AuthenticationForm (Login Form using Crispy)
 * Protect Routes with Django Contrib auth Decorator  @login-required
 * Responsive UI with Bootstrap
-
 
 
   ## Tech Stack
   - **BACKEND**: Django(Python)
   - **Frontend**: Html,Css, Bootstrap
-  - **Database**: Sqlite(default, I will and can be swapped for PostgreSQL/MySQL )
+  - **Database**: Sqlite(default,  Can be swapped for PostgreSQL/MySQL )
  
 
   
-  # Home page and Nav
-  ![home](https://github.com/user-attachments/assets/b24df974-34f8-4933-8a9d-253ca4f084b1)
-  ![homenav](https://github.com/user-attachments/assets/c6e7c7e4-34a8-45b0-828e-e2e4e9a7ee60)
+  # Home with Navigation and profile page
+  - You can only access the profile page if you are logged in and authenticated
+    
+  ![home](https://github.com/user-attachments/assets/3464c8e2-4587-4c33-9d4e-17e360fcfe1b)
+  ![profile](https://github.com/user-attachments/assets/e2942ca2-22a1-4e27-ac22-9d81bc470315)
 
-`  
+
+
   # Sign up or Registration page
-  ![signup post](https://github.com/user-attachments/assets/a63e2305-d124-4a2a-a01a-68a3caeb0464)
+  ![signup](https://github.com/user-attachments/assets/7a39c243-a5da-446e-9887-92a6cd0fc42c)
 
   # Login page
-  ![login](https://github.com/user-attachments/assets/a98006ec-8e92-4871-b0f8-24846d6dee09)
+  ![login](https://github.com/user-attachments/assets/e883e35a-c252-4d12-b84b-6ecb85f54a1e)
 
-  # Logout Page
-  - Notice that there's a Navigation in Home page with three black lines, there is a link or route to which our  logout page is  and when it's clicked on.
-  -  It Logout out our user and  redirects us to Login page.
 
-    
-  ![logoutpart](https://github.com/user-attachments/assets/0419910b-fe4d-4e21-a8ac-b06eb9cb2508)
-  ![logout post](https://github.com/user-attachments/assets/e0814297-48d1-467e-87bf-3da20b9e5c79)
  
 
 
