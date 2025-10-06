@@ -1,8 +1,6 @@
+![djongo-crispy-forms](https://github.com/user-attachments/assets/9800d04f-67de-49d6-880f-95c2409d9007)
 
-[![f![djongo![djongo-crispy-forms](https://github.com/user-attachments/assets/cf961fe4-f2ad-4fe4-8d9d-b0cdcd718d29)
--crispy-forms](https://github.com/user-attachments/assets/24ddd941-d138-457a-af2e-c82ed722fd49)
-ort![django-forms-crispy-forms](https://github.com/user-attachments/assets/de37c217-2688-466a-bd60-8a9260001cbe)
-hebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 
 # Django-Authentication-System-
 
