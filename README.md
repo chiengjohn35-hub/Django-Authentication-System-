@@ -1,7 +1,7 @@
 # Django-Authentication-System-
 
 # Installation
-* 1 - Create a virtual environment or if already created provided by the project
+* 1 - Create a virtual environment or if it's already created and provided by the project
 * 2 -Then activate the vertical environment by ".\venv\Scripts\activate"
     - or you  can create your own new virtual environment by
     - python -m venv (put your virtical environment name here)
