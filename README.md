@@ -1,5 +1,6 @@
-[![f!<svg xmlns="http://www.w3.org/2000/svg" width="222.59376907348633" height="35" viewBox="0 0 222.59376907348633 35"><rect width="145.29167938232422" height="35" fill="#7ed321"/><rect x="145.29167938232422" width="77.30208969116211" height="35" fill="#389AD5"/><text x="72.64583969116211" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">DJONGO CRISPY</text><text x="183.94272422790527" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="900" letter-spacing="2">FORMS</text></svg>)
-[![f![djongo-crispy-forms](https://github.com/user-attachments/assets/24ddd941-d138-457a-af2e-c82ed722fd49)
+
+[![f![djongo![djongo-crispy-forms](https://github.com/user-attachments/assets/cf961fe4-f2ad-4fe4-8d9d-b0cdcd718d29)
+-crispy-forms](https://github.com/user-attachments/assets/24ddd941-d138-457a-af2e-c82ed722fd49)
 ort![django-forms-crispy-forms](https://github.com/user-attachments/assets/de37c217-2688-466a-bd60-8a9260001cbe)
 hebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
