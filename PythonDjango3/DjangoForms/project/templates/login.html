@@ -1,0 +1,25 @@
+{% extends 'index.html'%}
+{% load crispy_forms_tags %}
+{% block content %}
+
+
+<!-- Our Login form here-->
+<div class="container mt-5">
+    <form class="col-6 mx-auto card p-3 shadow-ig" method="post" enctype="multipart/form-data"  action="{% url 'login' %}">
+        <h3 style="text-align:center; color: green;">Login </h3>
+        <fieldset class="form-group">
+            {% csrf_token %}
+            {{form|crispy}}
+
+        </fieldset>
+        <button type="submit" class="btn btn-primary">Login</button>
+        <br>
+
+         <small class="text-muted">
+             You have no account? <a  class="ml-2" href=" {% url 'register' %}">Sign Up</a>
+         </small>
+
+    </form>
+</div>
+
+{% endblock content %}

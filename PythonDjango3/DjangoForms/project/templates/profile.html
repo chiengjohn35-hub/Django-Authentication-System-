@@ -1,0 +1,24 @@
+{% extends 'index.html'%}
+{% load crispy_forms_tags %}
+
+
+{% if messages %}
+    <div class="alert alert-primary" role="alert">
+        {% for message in messages %}
+            <p>
+                {{message}}
+            </p>
+        {% endfor %}
+    </div>
+{% endif  %}
+
+{% block content %}
+
+<div style="display:grid; justify-content:center; place-items:center; height:80vh ">
+    <h1 style="text-align:center;">Hello 👋,  Welcome {{user.username }} </h1>
+</div>
+
+
+
+
+{% endblock content %}
