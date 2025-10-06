@@ -14,7 +14,7 @@
 * 3 - pip install django
 * 4 - django-admin startproject DjangoForm
 * 5 - django-admin startapp project
-* 6 - change the project diretctory to "cd DjangoApp" to run the server
+* 6 - change the project diretctory by "cd DjangoApp" to run the server
 * 7 - python manage.py runserver
 
   # Features and  Concepts Overview
